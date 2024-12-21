@@ -1,0 +1,13 @@
+## Example:
+## [Variable]: '[Value]'
+Browser: 'chrome'
+Headless: False
+
+googleOfferedIn: 'Google offered in:'
+
+windowAlias01: 'chrome_01'
+windowAlias02: 'chrome_02'
+
+expectedTimeout: 30
+
+loading: 'Now Loading...'
